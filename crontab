@@ -1,1 +1,1 @@
-* * * * * /aws-scripts-mon/mon-put-instance-data.pl --agregated --auto-scaling --mem-util --mem-used --mem-avail --from-cron
+* * * * * /aws-scripts-mon/mon-put-instance-data.pl --aggregated --auto-scaling --mem-util --mem-used --mem-avail --from-cron
