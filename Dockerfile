@@ -14,4 +14,4 @@ RUN chmod +x /aws-scripts-mon/mon-put-instance-data.pl
 
 COPY crontab /etc/crontabs/root
 
-CMD [ "crond", "-f", "-d 8" ]
+CMD [ "crond", "-f", "-d8" ]
